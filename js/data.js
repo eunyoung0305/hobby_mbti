@@ -95,7 +95,7 @@ export const results = [
     ],
     jobs: ['아크릴화 그리기', '아이돌 댄스 배우기'],
     lectureImg: 'images/result_thumbnail.jpg',
-    lectureUrl: 'http://localhost:8080/lesson/list' 
+    lectureUrl: 'https://port-0-onedayseed-back-17xco2nlslk5asd.sel5.cloudtype.app/lesson/list' 
   },
   {
     title: '프로직진러!<br>진행력 갑',
@@ -108,7 +108,7 @@ export const results = [
     ],
     jobs: ['스쿼시 배우기', '스쿠버 다이빙 체험'],
     lectureImg: 'images/result_thumbnail.jpg',
-    lectureUrl: 'http://localhost:8080/lesson/list' 
+    lectureUrl: 'https://port-0-onedayseed-back-17xco2nlslk5asd.sel5.cloudtype.app/lesson/list' 
   },
   {
     title: '나의 무기는<br>상상력!',
@@ -121,7 +121,7 @@ export const results = [
     ],
     jobs: ['오일 파스텔화 그리기', '떡케이크 만들기'],
     lectureImg: 'images/result_thumbnail.jpg',
-     lectureUrl: 'http://localhost:8080/lesson/list'  
+     lectureUrl: 'https://port-0-onedayseed-back-17xco2nlslk5asd.sel5.cloudtype.app/lesson/list'  
   },
   {
     title: '인생은<br>한방!',
@@ -134,7 +134,7 @@ export const results = [
     ],
     jobs: ['화과자 만들기', '막걸리 만들기'],
     lectureImg: 'images/result_thumbnail.jpg',
-    lectureUrl: 'http://localhost:8080/lesson/list' 
+    lectureUrl: 'https://port-0-onedayseed-back-17xco2nlslk5asd.sel5.cloudtype.app/lesson/list' 
   },
   {
     title: '한 번 집중하면<br>멈출 수 없지!',
@@ -147,7 +147,7 @@ export const results = [
     ],
     jobs: ['마카롱 만들기', '우쿨렐레 배우기'],
     lectureImg: 'images/result_thumbnail.jpg',
-    lectureUrl: 'http://localhost:8080/lesson/list' 
+    lectureUrl: 'https://port-0-onedayseed-back-17xco2nlslk5asd.sel5.cloudtype.app/lesson/list' 
   },
   {
     title: '인생 욜로지~<br>일단 놀자 ><',
@@ -160,7 +160,8 @@ export const results = [
     ],
     jobs: ['스키 배우기', '엽떡 만들기'],
     lectureImg: 'images/result_thumbnail.jpg',
-    lectureUrl: 'http://localhost:8080/lesson/list' 
+     lectureUrl: 'https://port-0-onedayseed-back-17xco2nlslk5asd.sel5.cloudtype.app/lesson/list' 
+    // lectureUrl: 'http://localhost:8080/lesson/list' 
   }
 ]
 export const mbtis = {
